@@ -1,7 +1,6 @@
 import * as CONSTANTS from './../constants';
 
 const defaultState = {
-  filteredTodos: [],
   appliedFilter: CONSTANTS.FILTER_ALL
 };
 
