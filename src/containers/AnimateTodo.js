@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { useTransition, animated } from 'react-spring';
 import styled from 'styled-components';
 
 import TodoItem from './../components/TodoItem';
